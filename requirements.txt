@@ -3,3 +3,10 @@ numpy
 pandas
 pydeck
 streamlit
+#Rag Application
+python-dotenv
+langchain_nvidia_ai_endpoints
+opencv-python
+faiss-cpu
+
+unstructured[all-docs]
